@@ -1,0 +1,15 @@
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.csproj.AssemblyReference.cache
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SmsPage.xaml.g.cs
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.AssemblyInfoInputs.cache
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.AssemblyInfo.cs
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.csproj.CoreCompileInputs.cache
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\bin\Debug\netstandard2.0\SMSapp.deps.json
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\bin\Debug\netstandard2.0\SMSapp.dll
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\bin\Debug\netstandard2.0\ref\SMSapp.dll
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\bin\Debug\netstandard2.0\SMSapp.pdb
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.dll
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\ref\SMSapp.dll
+C:\Users\Kordian\Desktop\Projekt mobilne\SMSapp\SMSapp\SMSapp\obj\Debug\netstandard2.0\SMSapp.pdb

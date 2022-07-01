@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             
+             x:Class="AppEssentials.Shared.Pages.SmsPage"
+             mc:Ignorable="d" BackgroundColor="#007FFF">
+             
+    <ContentPage.Content>
+        <StackLayout Padding="12">
+            <Label Text="Numer telefonu" TextColor="Black" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+            <Entry Text="" x:Name="EntryNumber" />
+            <Label Text="Wiadomość" TextColor="Black" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+            <Entry Text="" x:Name="EntryMessage" />
+            <Button Text="Wyslij" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
